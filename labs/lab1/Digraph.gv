@@ -1,0 +1,11 @@
+digraph {
+	rankdir=LR
+	subgraph cluster_0 {
+		label=N0
+		"x(n).0" [label="x(n)" height=0.1 shape=rectangle width=0.1]
+	}
+	"x(n).0" -> add0
+	add0 [label=add0 shape=ellipse]
+	"x(n)" -> "x(n).0"
+	"x(n)" [label="x(n)" shape=cds]
+}

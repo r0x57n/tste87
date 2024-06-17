@@ -1,0 +1,72 @@
+2024-04-30T11:42:04CEST     main_window.py:77               <module>() DEBUG   : Qt version (runtime):      5.15.8
+2024-04-30T11:42:04CEST     main_window.py:78               <module>() DEBUG   : Qt version (compile time): 5.15.8
+2024-04-30T11:42:04CEST     main_window.py:79               <module>() DEBUG   : QT_API:                    pyqt5
+2024-04-30T11:42:04CEST     main_window.py:87               <module>() DEBUG   : PyQt version:             5.15.9
+2024-04-30T11:42:04CEST     main_window.py:88               <module>() DEBUG   : QtPy version:             2.4.1
+2024-04-30T11:42:04CEST     main_window.py:741        _read_settings() DEBUG   : Settings read from '/home/raswa151/.config/Linköping University/B-ASIC Scheduling GUI.conf'.
+2024-04-30T11:45:48CEST     main_window.py:717       _write_settings() DEBUG   : Settings written to '/home/raswa151/.config/Linköping University/B-ASIC Scheduling GUI.conf'.
+2024-04-30T11:45:48CEST     main_window.py:630          _close_event() INFO    : Exit: main_window.py
+2024-04-30T11:45:50CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:45:50CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:45:50CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tpng']
+2024-04-30T11:45:50CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tjpeg']
+2024-04-30T11:45:50CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:45:50CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:45:51CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tpng']
+2024-04-30T11:45:51CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tjpeg']
+2024-04-30T11:45:51CEST     main_window.py:741        _read_settings() DEBUG   : Settings read from '/home/raswa151/.config/Linköping University/B-ASIC Scheduling GUI.conf'.
+2024-04-30T11:51:09CEST     main_window.py:717       _write_settings() DEBUG   : Settings written to '/home/raswa151/.config/Linköping University/B-ASIC Scheduling GUI.conf'.
+2024-04-30T11:51:09CEST     main_window.py:630          _close_event() INFO    : Exit: main_window.py
+2024-04-30T11:51:12CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:51:12CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:51:12CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tpng']
+2024-04-30T11:51:12CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tjpeg']
+2024-04-30T11:51:12CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:51:12CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:51:12CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tpng']
+2024-04-30T11:51:12CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tjpeg']
+2024-04-30T11:51:13CEST     main_window.py:741        _read_settings() DEBUG   : Settings read from '/home/raswa151/.config/Linköping University/B-ASIC Scheduling GUI.conf'.
+2024-04-30T11:51:27CEST     main_window.py:717       _write_settings() DEBUG   : Settings written to '/home/raswa151/.config/Linköping University/B-ASIC Scheduling GUI.conf'.
+2024-04-30T11:51:27CEST     main_window.py:630          _close_event() INFO    : Exit: main_window.py
+2024-04-30T11:51:55CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:51:55CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:51:55CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tpng']
+2024-04-30T11:51:55CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tjpeg']
+2024-04-30T11:51:55CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:51:55CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:51:55CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tpng']
+2024-04-30T11:51:55CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tjpeg']
+2024-04-30T11:51:55CEST     main_window.py:741        _read_settings() DEBUG   : Settings read from '/home/raswa151/.config/Linköping University/B-ASIC Scheduling GUI.conf'.
+2024-04-30T11:52:10CEST     main_window.py:717       _write_settings() DEBUG   : Settings written to '/home/raswa151/.config/Linköping University/B-ASIC Scheduling GUI.conf'.
+2024-04-30T11:52:10CEST     main_window.py:630          _close_event() INFO    : Exit: main_window.py
+2024-04-30T11:53:02CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:53:02CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:53:02CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tpng']
+2024-04-30T11:53:02CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tjpeg']
+2024-04-30T11:53:02CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:53:02CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:53:02CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tpng']
+2024-04-30T11:53:03CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tjpeg']
+2024-04-30T11:53:03CEST     main_window.py:741        _read_settings() DEBUG   : Settings read from '/home/raswa151/.config/Linköping University/B-ASIC Scheduling GUI.conf'.
+2024-04-30T11:53:16CEST     main_window.py:717       _write_settings() DEBUG   : Settings written to '/home/raswa151/.config/Linköping University/B-ASIC Scheduling GUI.conf'.
+2024-04-30T11:53:16CEST     main_window.py:630          _close_event() INFO    : Exit: main_window.py
+2024-04-30T11:53:16CEST     main_window.py:741        _read_settings() DEBUG   : Settings read from '/home/raswa151/.config/Linköping University/B-ASIC Scheduling GUI.conf'.
+2024-04-30T11:58:48CEST     main_window.py:717       _write_settings() DEBUG   : Settings written to '/home/raswa151/.config/Linköping University/B-ASIC Scheduling GUI.conf'.
+2024-04-30T11:58:48CEST     main_window.py:630          _close_event() INFO    : Exit: main_window.py
+2024-04-30T11:58:52CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:58:52CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:58:52CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tpng']
+2024-04-30T11:58:52CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tjpeg']
+2024-04-30T11:58:52CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:58:52CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tsvg']
+2024-04-30T11:58:53CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tpng']
+2024-04-30T11:58:53CEST         execute.py:61              run_check() DEBUG   : run [PosixPath('dot'), '-Kdot', '-Tjpeg']
+2024-04-30T11:58:53CEST     main_window.py:741        _read_settings() DEBUG   : Settings read from '/home/raswa151/.config/Linköping University/B-ASIC Scheduling GUI.conf'.
+2024-04-30T11:59:10CEST     main_window.py:717       _write_settings() DEBUG   : Settings written to '/home/raswa151/.config/Linköping University/B-ASIC Scheduling GUI.conf'.
+2024-04-30T11:59:10CEST     main_window.py:630          _close_event() INFO    : Exit: main_window.py
+2024-04-30T11:59:10CEST     main_window.py:741        _read_settings() DEBUG   : Settings read from '/home/raswa151/.config/Linköping University/B-ASIC Scheduling GUI.conf'.
+2024-04-30T11:59:22CEST     main_window.py:717       _write_settings() DEBUG   : Settings written to '/home/raswa151/.config/Linköping University/B-ASIC Scheduling GUI.conf'.
+2024-04-30T11:59:22CEST     main_window.py:630          _close_event() INFO    : Exit: main_window.py
+2024-04-30T12:00:44CEST     main_window.py:741        _read_settings() DEBUG   : Settings read from '/home/raswa151/.config/Linköping University/B-ASIC Scheduling GUI.conf'.
+2024-04-30T12:01:11CEST     main_window.py:717       _write_settings() DEBUG   : Settings written to '/home/raswa151/.config/Linköping University/B-ASIC Scheduling GUI.conf'.
+2024-04-30T12:01:11CEST     main_window.py:630          _close_event() INFO    : Exit: main_window.py
